@@ -1,8 +1,3 @@
 # Memegen Database
 
-
-## Install
-
-    mv ~/.memegen{,.old}
-    
-    
+Collect them all!
